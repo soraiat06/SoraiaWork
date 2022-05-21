@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title> Solzinho Web </title>
+    <link rel="icon" href="https://i.pinimg.com/236x/2d/41/b0/2d41b0c9337d44526cde7732cebab04f.jpg" type="image/png">
+   <style>
+     body{color:#522300; Font-family: Consolas;}
+     img { width: 240px; height: 250px; border: 10px solid #5a6600; }
+   </style>
+   </head>
+   <body background="https://i.pinimg.com/736x/55/da/95/55da95625493291b5d18c89e395accbe.jpg">
+      </div><div id="Começo">
+      <h1 style="color:#1A693A;">Tipos de Arte</h1>
+     <img src="https://i.pinimg.com/236x/f4/3c/79/f43c7953da3e7d7beaef7ee818a06de6.jpg" 
+          alt="Foto de um caderno Bullet jounal"> 
+        <img src="https://i.pinimg.com/236x/40/f6/e9/40f6e9d0e2b2fc75ab75004ee13a502e.jpg"
+          alt="Casa estilinho europeu" width="175">
+        <img src="https://i.pinimg.com/236x/30/f5/99/30f599079daf5a56fa4c0e93976745f8.jpg"
+          alt="Pintura de uma jovem lendo"
+          <br><br/>
+        <p style="color:#7A4D15;"> Me encanta...</p>
+       <ul>
+     <li>Dibujos en un cuarderno</li>
+     <li>Bullet Jounal como método de ordenar las cosas del día</li>
+     <li>Escribir y pegar las fotos de momentos especiales</li>
+     <li>Cuadros con pinturas naturales, mágicas con belleza</li>
+     <li>Cículos cromáticos</li>
+     <li>Colagens junto a diseños</li>
+         <br><br/>
+       </ul>
+      <h1 style="color:#1A693A;">Recetas de Postres</h1>
+      <p style="color:#7A4D15;">¿Qué puedo hacer de postre? Comidas muy ricas</p>
+     <img src="https://d1e3z2jco40k3v.cloudfront.net/-/media/margpt2018/recipes/800/arroz_doce_com_canela_800.jpg?rev=64a1f887156642b78e32fe24bbc37321vd=20200616T043947Z&hash=339393E8C7372CEFB0D9D498B959A2E7" 
+          alt="foto del arroz con leche"> 
+        <img src="https://sibeti.com/wp-content/uploads/2021/09/carlota-de-limon-receta--1200x900.jpg"
+          alt="receta 2">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtsuWmkuoviW_IKUm67TpfYlZRADKghS3iOA&usqp=CAU"
+          alt="receta 3">
+          <br><br/>
+      <ol>
+           <li>Arroz con Leche. Intermedio. 48min.
+</li>
+           <li>Carlota de limón. Fácil. 35min.
+</li>
+           <li>Postre frío de limón. Fácil. 30min.
+</li>
+           <li>Flan Napolitano. Fácil. 162min.
+</li>
+           <li>Gelatina mosaico. Fácil. 192min.
+</li>
+           <li>Pan de elote. Fácil. 97min.</li>
+           <li>Pastel Práctico de Tres Leches. Intermedio. 180min.
+</li>
+          <br><br/>
+      </ol>
+     <h1 style="color:#405B0C;">Páginas de Estudios <3 </h1>
+     <ul>
+       <li> <a href="https://soexercicios.com.br/">Só Execícos</a> </li>
+       <li> <a href="https://pt.duolingo.com/" >Duolingo</a> </li>
+       <li> <a href="https://www.todamateria.com.br/">Toda matéria</a>  </li>
+       <li> <a href="https://brasilescola.uol.com.br/">Brasil Escola</a></li>
+      <h1 style="color:#405B0C;">Links para Jueguitos</h1>
+       <li> <a href="http://slither.io/">Slither</a> </li>
+       <li> <a href="https://pt.akinator.com/">Gênio de la internet</a> </li>
+       <li> <a href="https://www.jogos360.com.br/jogo_da_velha.html">Juego de la Vieja</a> </li>
+      <h1 style="color:#427778;">A R T E S</h1>
+       <p style="color:#55783F;">Mis Estilos Favoritos</p>
+         <li> <a href="FavoritesArt.html">Sol Favorites Artes</a> </li>
+         <li> <a href="SolzinhoWeb.html">Solzinho Site</a> </li>
+              <a href= "#Começo"> Voltar ao Começo </a>
+       </ul>
+    </body>
+</html>
