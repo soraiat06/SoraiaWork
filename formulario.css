@@ -2,9 +2,18 @@
     display: inline-block;
 }
 
+fieldset {
+    border: 0;
+}
+
 body{
     font-size: 1em;
     color:  #006400;
+}
+
+form{
+    display: inline-block;
+    position: relative;
 }
 
 input, select, textarea, button {
