@@ -2,10 +2,6 @@
     display: inline-block;
 }
 
-fieldset {
-    border: 0;
-}
-
 body{
     font-size: 1em;
     color:  #006400;
