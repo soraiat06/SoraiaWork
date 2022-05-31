@@ -13,7 +13,6 @@ body{
 
 form{
     display: inline-block;
-    position: relative;
 }
 
 input, select, textarea, button {
