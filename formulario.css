@@ -11,10 +11,6 @@ body{
     color:  #006400;
 }
 
-form{
-    display: inline-block;
-}
-
 input, select, textarea, button {
     font-size: 1em;
     color: #8B4513;
