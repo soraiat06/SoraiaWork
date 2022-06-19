@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Solzinho</title>
+       <link rel="icon" href="https://i.pinimg.com/236x/2d/41/b0/2d41b0c9337d44526cde7732cebab04f.jpg" type="image/png">
+    <style>
+       body{color:#522300; Font-family: Consolas;}
+       img { width: 240px; height: 250px; border: 10px solid #5a6600; }
+       a:visited {color:#B8860B;}
+       a:link {color:#D2691E;}
+       a:hover {color:#800000;}
+    </style>
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  </head>
+    <body background="https://i.pinimg.com/236x/0d/47/a1/0d47a1399e691b4a5bbc55d95e6027fa.jpg">
+      </div><div id="Começo">
+        <div class="container">
+          <h1 style="color:#ff6f9c;">Algumas personagens do Club das Winx</h1>
+           <h2 style="color:#1A693A;">Personagens principais da trama <3 </h1>
+            <div class="bg-info text-blak p-3">Clube das Winx é um desenho animado italiano. Foi lançado originalmente no dia 28 de janeiro de 2004</div>
+        </div><br>
+             <div class="container overflow-hidden">
+              <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+               <div class="col">
+                  <img src="https://i.pinimg.com/236x/50/53/3a/50533ab381e83ffb6d3beec27a756398.jpg" class="img-fluid" alt="bloom">
+                  <div class="p-3 border bg-light">Bloom </div>
+               </div>
+               <div class="col">
+                  <img src="https://i.pinimg.com/236x/fc/a0/1f/fca01fa936f0851231bfbcc549a796ac.jpg" class="img-fluid" alt="stella">             
+                  <div class="p-3 border bg-light">Stella</div>
+               </div>
+               <div class="col">
+                  <img src="https://i.pinimg.com/236x/eb/28/73/eb287361cd57be6c26ebea138a15d6a9.jpg" class="img-fluid" alt="flora">
+                  <div class="p-3 border bg-light">Flora</div>
+               </div>
+               <div class="col">
+                  <img src="https://i.pinimg.com/236x/6e/a0/db/6ea0db047fe07aaff74559ead22274cc.jpg" class="img-fluid" alt="musa">
+                  <div class="p-3 border bg-light">Musa</div>
+               </div>
+               <div class="col">
+                  <img src="https://i.pinimg.com/236x/89/c2/c9/89c2c9fd8f561e91103c650150cd9a15.jpg" class="img-fluid" alt="tecna">
+                  <div class="p-3 border bg-light">Tecna</div>
+               </div>
+               <div class="col">
+                  <div class="p-3 border bg-light">Aisha</div>
+                  <img src=" https://i.pinimg.com/236x/17/66/54/17665463d1b59ba3b045dee0a2b99a6f.jpg" class="img-fluid" alt="aisha">
+               </div>
+               <div class="col">
+                  <div class="p-3 border bg-light">Icy</div>
+                  <img src=" https://i.pinimg.com/236x/ba/9f/1c/ba9f1ca534542b1745190a928189a461.jpg" class="img-fluid" alt="icy">
+               </div>
+               <div class="col">
+                  <div class="p-3 border bg-light">Darcy</div>
+                  <img src=" https://i.pinimg.com/236x/74/52/76/7452764e700c2750c202bb93e0c96676.jpg" class="img-fluid" alt="darcy">
+               </div>
+               <div class="col">
+                  <div class="p-3 border bg-light">Stormy</div>
+                  <img src=" https://i.pinimg.com/236x/fa/0b/d3/fa0bd349046bc2ea29245410db20a875.jpg" class="img-fluid" alt="stormy">
+               </div>
+               <div class="col">
+                  <div class="p-3 border bg-light">Roxy</div>
+                  <img src=" https://i.pinimg.com/236x/58/2b/bc/582bbc686c6d3e65e7cc341cbb6dd8c7.jpg" class="img-fluid" alt="roxy"><br>
+                   <br>
+               <div style="text-align:left"
+                <ul>
+                  <li><a href="FavoritesArt.html"style="text-decoration:none"><b>Sol Favorites Artes</a></b></li>
+                  <li><a href="Recetasymas.html"style="text-decoration:none"><b>Más del Site</a></b></li>
+                  <li><a href="formulário.html"style="text-decoration:none"><b>Formulário literário</a></b></li>
+                </ul> 
+                 <a href= "#Começo"style="text-decoration:none"><b>Voltar ao Começo </a></b> 
+                  <p style="color:#1A693A;">©SoraiaTavares<3</p>
+              </div>
+            </div> 
+    </body>
+</html>
